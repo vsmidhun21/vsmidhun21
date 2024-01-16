@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/midhun-v-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
 <a href="https://instagram.com/midhun_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_021" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Unlucky_Coder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unlucky_coder21" height="30" width="40" /></a>
-<a href="https://unluckycoder21.blogspot.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABlogger_icon.svg&psig=AOvVaw1xggJHyW-o8C_2BRU1wW1v&ust=1705477415096000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCz7tK04YMDFQAAAAAdAAAAABAD" alt="unlucky_coder21" height="30" width="40" /></a>
+<a href="https://unluckycoder21.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" alt="unlucky_coder21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
