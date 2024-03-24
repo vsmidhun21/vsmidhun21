@@ -20,7 +20,7 @@
 <a href="https://instagram.com/midhun_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Unlucky_Coder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
 <a href="https://unluckycoder21.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" alt="Blogger Website" height="30" width="40" /></a>
-<a href="https://unluckycoder21.wordpress.com" target="blank"><img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png" alt="Wordpress Website" height="30" width="40" /></a>
+<a href="https://unluckycoder21.wordpress.com" target="blank"><img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png" alt="Wordpress Website" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
