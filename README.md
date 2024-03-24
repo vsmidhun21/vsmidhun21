@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **midhun890390@gmail.com**
 
-<h3 align="left">Reach Me:</h3>
+<h3 align="left">Social Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/midhun-v-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
 <a href="https://instagram.com/midhun_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_021" height="30" width="40" /></a>
