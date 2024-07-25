@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&color=0e75b6&style=flat" alt="vsmidhun21" /> </p>
 <img align="right" width="400" src="./coding.gif">
 
-- 🔭 I’m currently pursuing **Final Year Engineering**
+- 🔭 I’m currently seeking roles where I can utilize my experience and skills.
 
 - 🌱 I’m currently learning **Full Stack Development**
 
