@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently seeking roles in **Web & Software Development**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 My portfolio website [https://vsmidhun21.github.io](https://vsmidhun21.github.io)
 
-- 💬 Ask me about **Python, HTML, CSS, SQL**
+- 💬 Ask me about **Python, HTML, CSS, SQL, React, Laravel**
 
 - 📫 How to reach me **midhun21@zohomail.in**
 
