@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm MIDHUN V S</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&color=0e75b6&style=flat" alt="vsmidhun21" /></p>
-<img align="right" width="400" src="./coding.gif">
+
+<img align="right" width="250" src="./coding.gif">
 
 - 🔭 I’m currently seeking roles in **Web & Software Development**
 
@@ -15,60 +15,50 @@
 
 - 📫 How to reach me **midhun21@zohomail.in**
 
-<h3 align="left">Social Links:</h3>
-<p align="left">
-<a href="https://instagram.com/midhun_v_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Unlucky_Coder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
-<a href="https://unluckycoder21.wordpress.com" target="blank"><img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png" alt="Wordpress Website" height="40" width="40" /></a>
-<a href="https://www.github.com/vsmidhun21" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" align="center" alt="GitHub" title="GitHub" /></picture></a>
-<a href="https://www.linkedin.com/in/midhun-v-s" target="_blank" ><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" align="center" alt="LinkedIn" title="LinkedIn" /></picture></a></p>
+<h3 align="center">Social Links</h3>
 
-<a href="https://www.github.com/vsmidhun21" target="_blank" ><img
-src="https://img.shields.io/github/followers/vsmidhun21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<p align="center">
+  <a href="https://instagram.com/midhun_v_s_" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/midhun-v-s" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://www.github.com/vsmidhun21" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+  </a>
+  <a href="https://unluckycoder21.wordpress.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" />
+  </a>
+  <a href="mailto:midhun890390@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://www.php.net/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
+<p align="center">
+    <a  href="https://www.github.com/vsmidhun21" target="_blank" ><img
+    src="https://img.shields.io/github/followers/vsmidhun21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&color=0e75b6&style=flat" alt="vsmidhun21" /></p>
 </p>
 
-<h3 align="left">Tools and Technologies:</h3>
-<p align="left"> 
- 
-<a href="https://git-scm.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://www.sublimetext.com/index2" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-<a href="https://getbootstrap.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-<a href="https://jquery.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-<a href="https://wordpress.com" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-<a href="https://laravel.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-<a href="https://www.blender.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-<a href="https://www.postman.com" target="_blank" ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="36" height="36" /></a> 
-<a href="https://www.qt.io/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="36" height="36"/></a>
-<a href="https://opencv.org/" target="_blank" ><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36"/></a>
+<h3 align="center">Languages</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js,php,java" />
+  </a>
 </p>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/midhun21.png" alt="Learning Badge" />
+
+<h3 align="center">Tools and Technologies</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,laravel,bootstrap,jquery,docker,git,vscode,mysql,postgres,firebase,figma,wordpress,arduino,linux,blender,tensorflow,postman,qt,opencv,sublime,aws,kali,jenkins,npm,pycharm,ubuntu,vite,windows" />
+  </a>
+</p>
+
+<h3 align="center">Badges</h3>
+<p align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/midhun21.png" alt="Learning Badge" />
+</p>
