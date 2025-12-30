@@ -36,9 +36,12 @@
 </p>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&style=for-the-badge&color=07B34C&labelColor=1c1917" alt="vsmidhun" /><br>
+    <a  href="https://www.linkedin.com/in/midhun-v-s" target="_blank" ><img src="https://img.shields.io/badge/Followers-650-green?logo=inspire&logoColor=ffffff&style=for-the-badge&color=F55947&labelColor=61605F" alt="vsmidhun" /></a>
+    <a  href="https://instagram.com/midhun_v_s_" target="_blank" ><img src="https://img.shields.io/badge/Followers-300-green?logo=instagram&style=for-the-badge&color=E1ED02&labelColor=61605F" alt="vsmidhun" /></a>
     <a  href="https://www.github.com/vsmidhun21" target="_blank" ><img
-    src="https://img.shields.io/github/followers/vsmidhun21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&color=0e75b6&style=flat" alt="vsmidhun21" /></p>
+    src="https://img.shields.io/github/followers/vsmidhun21?logo=github&style=for-the-badge&color=0891b2&labelColor=61605F" alt="vsmidhun" /></a>
+    
 </p>
 
 <h3 align="center">Languages</h3>
