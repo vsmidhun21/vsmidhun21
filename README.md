@@ -30,7 +30,7 @@
   <a href="https://unluckycoder21.wordpress.com" target="blank">
     <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" />
   </a>
-  <a href="mailto:midhun890390@gmail.com" target="blank">
+  <a href="mailto:midhun21@zohomail.in" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,laravel,bootstrap,jquery,docker,git,vscode,mysql,postgres,firebase,figma,wordpress,arduino,linux,blender,tensorflow,postman,qt,opencv,sublime,aws,kali,jenkins,npm,pycharm,ubuntu,vite,windows" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,laravel,bootstrap,jquery,docker,git,vscode,mysql,postgres,firebase,figma,wordpress,arduino,linux,blender,tensorflow,postman,idea,qt,opencv,sublime,aws,kali,jenkins,npm,pycharm,ubuntu,vite,windows" />
   </a>
 </p>
 
