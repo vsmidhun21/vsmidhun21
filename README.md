@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,laravel,bootstrap,jquery,docker,git,vscode,mysql,postgres,firebase,figma,wordpress,arduino,linux,blender,tensorflow,postman,idea,qt,opencv,sublime,aws,kali,jenkins,npm,pycharm,ubuntu,vite,windows" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,laravel,bootstrap,jquery,docker,git,vscode,mysql,postgres,firebase,figma,wordpress,arduino,linux,blender,tensorflow,postman,idea,qt,opencv,sublime,spring,aws,kali,jenkins,npm,pycharm,ubuntu,vite,windows" />
   </a>
 </p>
 
